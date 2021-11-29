@@ -1,0 +1,1 @@
+this is  License.txt in a git working directory
